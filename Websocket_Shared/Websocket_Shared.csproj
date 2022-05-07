@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CAH.Backend">
+      <HintPath>..\..\..\CAH\CAH.Backend\bin\Debug\net6.0\CAH.Backend.dll</HintPath>
+    </Reference>
+    <Reference Include="CAH.Data">
+      <HintPath>..\..\..\CAH\CAH.Backend\bin\Debug\net6.0\CAH.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
