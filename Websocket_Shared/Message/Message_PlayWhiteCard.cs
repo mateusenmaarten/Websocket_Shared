@@ -1,7 +1,6 @@
 ﻿using CAH.Backend.Interfaces;
 
-
-namespace Websocket_Server
+namespace Websocket_Shared
 {
     public class Message_PlayWhiteCard : Message
     {

@@ -1,4 +1,4 @@
-﻿namespace Websocket_Server
+﻿namespace Websocket_Shared
 {
     public enum MessageRouting
     {

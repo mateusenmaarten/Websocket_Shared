@@ -1,7 +1,8 @@
 ﻿using CAH.Backend.Interfaces;
 
-namespace Websocket_Server
-{
+namespace Websocket_Shared 
+{ 
+
     public class Message_DealWhiteCard : Message
     {
         public Message_DealWhiteCard(IPlayer player, WhiteCard[] playerCards) : base()
